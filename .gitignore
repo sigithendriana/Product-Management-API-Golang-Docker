@@ -1,0 +1,16 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+bin/
+
+# Dependency directories
+vendor/
+
+# Configuration
+.env
+
+# Docker data
+pgdata/
