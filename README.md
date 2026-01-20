@@ -23,8 +23,8 @@ Sebelum menjalankan proyek ini, pastikan Anda sudah menginstal:
 ## 🏃 Cara Menjalankan
 1. **Clone Repository**
    ```bash
-   git clone [https://github.com/username/namarepo.git](https://github.com/username/namarepo.git)
-   cd 
+   git clone [https://github.com/sigithendriana/Product-Management-API-Golang-Docker-.api](https://github.com/sigithendriana/Product-Management-API-Golang-Docker-.api)
+   cd Product-Management-API-Golang-Docker-.api
 
 2. Jalankan dengan Docker Compose Cukup satu perintah untuk membangun image dan menjalankan container:
     ```bash
